@@ -1,14 +1,22 @@
-# Assignment 1 - Basic Data Exploration and Cleaning using Pandas
+# Celebal Technologies Internship
 
-## Tasks Performed
-- Loaded the dataset
-- Explored the data
-- Handled missing values
-- Checked duplicate records
-- Filtered data
-- Created a derived column (discount_amount)
-- Saved the cleaned dataset
+This repository contains the assignments completed during my internship at Celebal Technologies. 
 
-## Files
-- Assignment1.ipynb
-- Cleaned_Combined_dataset.csv
+## Repository Structure
+
+### Assignment-1: Data Exploration and Cleaning using Pandas
+- Data exploration
+- Handling missing values
+- Removing duplicate records
+- Data cleaning and preprocessing
+
+**Tools Used:** Python, Pandas, Jupyter Notebook
+
+### Assignment-2: SQL Data Analysis
+- Data exploration using SQL
+- Filtering and sorting
+- Aggregate functions
+- Grouping and analysis
+- Data validation
+
+**Tools Used:** MySQL, MySQL Workbench
